@@ -1,0 +1,37 @@
+*{
+	font-family: 'Roboto', sans-serif;
+	/*color:#4169e1;*/
+}
+.slick-prev:before, .slick-next:before{
+	color:gray;
+}
+.centering{
+	text-align: center;
+	margin:auto;
+	margin-top:100px;
+	margin-bottom:100px;
+}
+.col-sm-4 img{
+	display: block;
+	width:100%;
+}
+.center img{
+	display: block;
+	width:100%;
+}
+
+.single-item img{
+	display: block;
+	width:100%;
+}
+@media(max-width:767px){
+ .centering h1{
+ 	font-size: 26px;
+ }
+ .drawer-container {
+    /*margin-right: auto;*/
+    /*margin-left: auto;*/
+    width: 90%;
+}
+}
+/*.wf-nikukyu { font-family: "Nikukyu"; }*/
